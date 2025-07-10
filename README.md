@@ -1,1 +1,1 @@
-# sitt-pwa-demo
+# sitt-pwa
